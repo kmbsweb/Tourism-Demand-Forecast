@@ -10,6 +10,7 @@ conda install matplotlib
 pip install japanize_matplotlib
 pip install h2o
 pip install seaborn
+pip install scikit-learn
 ```
 
 
